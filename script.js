@@ -1,5 +1,5 @@
 const downloadBtn = document.querySelector(".download-btn");
-const fileLink = "https://drive.google.com/uc?export=download&id=1aYiaLn3YOjL-_o5QBCy7tU1epqA6gZoi";
+const fileLink = "https://expo.dev/artifacts/eas/nYDVXfxzKHVmdV8TjG4kz8.apk";
 
 const initTimer = () => {
     if(downloadBtn.classList.contains("disable-timer")) {
